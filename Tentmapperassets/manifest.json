@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sun_midday",
+    "label": "day sun / clean bright",
+    "sprite": "sun_midday_lean_256.webp",
+    "pngSource": "sun_midday_lean_256.png",
+    "thumb": "sun_midday_lean_256_thumb_300x150.webp",
+    "sizePx": [
+      256,
+      256
+    ],
+    "recommendedThreeJs": {
+      "transparent": true,
+      "depthWrite": false,
+      "blending": "THREE.AdditiveBlending for suns; THREE.NormalBlending for moons",
+      "toneMapped": false,
+      "side": "THREE.DoubleSide"
+    }
+  },
+  {
+    "id": "sun_golden_hour",
+    "label": "sunset sun / warm glow",
+    "sprite": "sun_golden_hour_lean_256.webp",
+    "pngSource": "sun_golden_hour_lean_256.png",
+    "thumb": "sun_golden_hour_lean_256_thumb_300x150.webp",
+    "sizePx": [
+      256,
+      256
+    ],
+    "recommendedThreeJs": {
+      "transparent": true,
+      "depthWrite": false,
+      "blending": "THREE.AdditiveBlending for suns; THREE.NormalBlending for moons",
+      "toneMapped": false,
+      "side": "THREE.DoubleSide"
+    }
+  },
+  {
+    "id": "sun_hazy_subtle",
+    "label": "subtle haze sun / overcast",
+    "sprite": "sun_hazy_subtle_lean_256.webp",
+    "pngSource": "sun_hazy_subtle_lean_256.png",
+    "thumb": "sun_hazy_subtle_lean_256_thumb_300x150.webp",
+    "sizePx": [
+      256,
+      256
+    ],
+    "recommendedThreeJs": {
+      "transparent": true,
+      "depthWrite": false,
+      "blending": "THREE.AdditiveBlending for suns; THREE.NormalBlending for moons",
+      "toneMapped": false,
+      "side": "THREE.DoubleSide"
+    }
+  },
+  {
+    "id": "moon_full",
+    "label": "full moon / crisp",
+    "sprite": "moon_full_lean_512.webp",
+    "pngSource": "moon_full_lean_512.png",
+    "thumb": "moon_full_lean_512_thumb_300x150.webp",
+    "sizePx": [
+      512,
+      512
+    ],
+    "recommendedThreeJs": {
+      "transparent": true,
+      "depthWrite": false,
+      "blending": "THREE.AdditiveBlending for suns; THREE.NormalBlending for moons",
+      "toneMapped": false,
+      "side": "THREE.DoubleSide"
+    }
+  },
+  {
+    "id": "moon_crescent",
+    "label": "crescent moon / crisp",
+    "sprite": "moon_crescent_lean_512.webp",
+    "pngSource": "moon_crescent_lean_512.png",
+    "thumb": "moon_crescent_lean_512_thumb_300x150.webp",
+    "sizePx": [
+      512,
+      512
+    ],
+    "recommendedThreeJs": {
+      "transparent": true,
+      "depthWrite": false,
+      "blending": "THREE.AdditiveBlending for suns; THREE.NormalBlending for moons",
+      "toneMapped": false,
+      "side": "THREE.DoubleSide"
+    }
+  },
+  {
+    "id": "moon_hazy_full",
+    "label": "full moon / soft haze",
+    "sprite": "moon_hazy_full_lean_512.webp",
+    "pngSource": "moon_hazy_full_lean_512.png",
+    "thumb": "moon_hazy_full_lean_512_thumb_300x150.webp",
+    "sizePx": [
+      512,
+      512
+    ],
+    "recommendedThreeJs": {
+      "transparent": true,
+      "depthWrite": false,
+      "blending": "THREE.AdditiveBlending for suns; THREE.NormalBlending for moons",
+      "toneMapped": false,
+      "side": "THREE.DoubleSide"
+    }
+  }
+]
