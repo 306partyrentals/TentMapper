@@ -1,0 +1,2 @@
+// Add to utils/wallTextureCatalog.ts inside ENTRIES:
+{ id: 'exterior_red_brick_running_bond', label: 'Red Brick Running Bond', surface: 'exterior', webpFile: 'wall_exterior_red_brick_running_bond_1024.webp', webp512File: 'wall_exterior_red_brick_running_bond_512.webp', tileFt: 6 },

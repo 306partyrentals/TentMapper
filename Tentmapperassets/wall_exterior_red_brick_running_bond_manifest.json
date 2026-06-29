@@ -1,0 +1,14 @@
+{
+  "id": "exterior_red_brick_running_bond",
+  "label": "Red Brick Running Bond",
+  "surface": "exterior",
+  "main_texture_file": "wall_exterior_red_brick_running_bond_1024.webp",
+  "thumbnail_file": "wall_exterior_red_brick_running_bond_512.webp",
+  "dimensions": {
+    "main_texture": "1024x1024",
+    "thumbnail": "512x512"
+  },
+  "format": "WEBP",
+  "recommended_tileFt": 6,
+  "notes": "Power-of-two, lean WebP wall texture asset for TentMapper exterior wall materials. UI thumbnail is generated from the same texture for consistent preview."
+}
