@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-21T20:30:36.712Z",
+  "renderer": "TentMapper exact-GLB studio renderer",
+  "size": {
+    "width": 512,
+    "height": 512,
+    "format": "webp"
+  },
+  "policy": "Each thumbnail is rendered only from the exact GLB named in its row; no stock, generated, or similar-item substitute.",
+  "items": [
+    {
+      "key": "glass-crystal-all-purpose",
+      "source": "Crystal_All_Purpose_10InchesTall_TableTop_0222193237_texture.glb",
+      "output": "glass crystal all purpose model.webp",
+      "view": "glass",
+      "sourceSha256": "e7c850e88d33167154d19251bd8b64a78412b8f596053b266dbd0f1b286c214f",
+      "outputSha256": "7cb1c6d88a5767ffaaad05b653a77047fce5f8f6dea291608a77e2fc97b920d5",
+      "bytes": 3230,
+      "measuredBounds": {
+        "width": 0.13622851504200661,
+        "height": 0.2540000230073929,
+        "depth": 0.13622851918757345
+      },
+      "meshes": 1
+    },
+    {
+      "key": "glass-goblet-carousel-v2",
+      "source": "Glass_Goblet_Carouse_9.8InchesTall_TableTop_0222192714_texture.glb",
+      "output": "glass goblet carousel v2 model.webp",
+      "view": "glass",
+      "sourceSha256": "ab373d489ed435890f196cfbfb9e8a22fcc934affb1f90f0831e806391b09fa6",
+      "outputSha256": "9f596849f3819c4315a31a7d4bcc7ef6d57cd35dad6009c6c4a6eefa11019e19",
+      "bytes": 6936,
+      "measuredBounds": {
+        "width": 0.15415578778107514,
+        "height": 0.2489199936389923,
+        "depth": 0.15415579469035318
+      },
+      "meshes": 1
+    },
+    {
+      "key": "glass-goblet-vintage",
+      "source": "Glass_Goblet_Vintage_10InchesTall_TableTop_0222192555_texture.glb",
+      "output": "glass goblet vintage model.webp",
+      "view": "glass",
+      "sourceSha256": "47bcfe754f1b1dcc418140eb55252ef96714e2d2be95b06f4173fcf8f52b98be",
+      "outputSha256": "85246fb0cfe1bf28a5ae5ef6d7292775ab27cda646c098366acc7cea66433d1e",
+      "bytes": 5530,
+      "measuredBounds": {
+        "width": 0.19573756601835035,
+        "height": 0.2540000081062317,
+        "depth": 0.19573757430948402
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-charger-plate-gold",
+      "source": "Gold_Charger_Plate_1InchTall_Tabletop_1I_0222025735_texture.glb",
+      "output": "gold charger plate model.webp",
+      "view": "plate",
+      "sourceSha256": "5458e0fa48a48235813b81029beb93cfcd825520b0df180c28eec0e118fb8d63",
+      "outputSha256": "5f86182dc60fa9f17ac9be3241bc0e88e0e109f9f15b7799e1db14bcfce023a1",
+      "bytes": 6204,
+      "measuredBounds": {
+        "width": 0.38504454925726905,
+        "height": 0.025399998761713505,
+        "depth": 0.3850445855724463
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-charger-plate-gold-v2",
+      "source": "Gold_Charger_Plate_1InchTall_TableTop_0222183603_texture.glb",
+      "output": "gold charger plate alt model.webp",
+      "view": "plate",
+      "sourceSha256": "5458e0fa48a48235813b81029beb93cfcd825520b0df180c28eec0e118fb8d63",
+      "outputSha256": "5f86182dc60fa9f17ac9be3241bc0e88e0e109f9f15b7799e1db14bcfce023a1",
+      "bytes": 6204,
+      "measuredBounds": {
+        "width": 0.38504454925726905,
+        "height": 0.025399998761713505,
+        "depth": 0.3850445855724463
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-charger-plate-white-gold-elle",
+      "source": "WHITE_GOLD_ELLECHARGERPLATE_1INCHTALL_0222031132_texture.glb",
+      "output": "white gold elle charger plate model.webp",
+      "view": "plate",
+      "sourceSha256": "610c49026cccdf314c6d65921f13879f3b16e3a6472cc47d6e0deb37a1087159",
+      "outputSha256": "018e4eec2633999483797ee87c1e632a94ad8402fbc49b2adcbb746b85349884",
+      "bytes": 5136,
+      "measuredBounds": {
+        "width": 0.2643264575793605,
+        "height": 0.02540000155568123,
+        "depth": 0.26642474852288367
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-coffee-dark-brown",
+      "source": "Table_Coffee_Dark_Brown_20InchesTall_0222193116_texture.glb",
+      "output": "coffee table dark brown model.webp",
+      "view": "furniture",
+      "sourceSha256": "9fb8d8b16842b80c21386c92df3c6577ce3571ef66ab15d502e4fce286ab4221",
+      "outputSha256": "dd06cba4b84f513c780545c78c8ac21b1062437a9f81e5d47604973333520f26",
+      "bytes": 6958,
+      "measuredBounds": {
+        "width": 51.6617358921861,
+        "height": 20,
+        "depth": 48.53146086492239
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-coffee-white-v2",
+      "source": "Table_Coffee_White_20InchesTall_0222193039_texture.glb",
+      "output": "coffee table white 20in model.webp",
+      "view": "furniture",
+      "sourceSha256": "c4197e8cde12503aac6b560298f870512ea8faa9635ac1304ef917539a638ed4",
+      "outputSha256": "4bb81c18bde23b06c763281b048d0f06d8a60bd385e0fc843021e8cd95b408f6",
+      "bytes": 2872,
+      "measuredBounds": {
+        "width": 1.9765953756319814,
+        "height": 0.5080000162124634,
+        "depth": 1.9309142138457427
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-coffee-white-30in",
+      "source": "Table_Coffee_White_30InchesTall_0222191947_texture.glb",
+      "output": "coffee table white 30in model.webp",
+      "view": "furniture",
+      "sourceSha256": "9b62809e6bdc6ed492739bf63bb4eaa3a162aab472223702ed815d75d5db963e",
+      "outputSha256": "7b872907f8616b46d5d0644ffca5cc16ee8f6c072f82f5685ebb000d98ebb3d3",
+      "bytes": 6768,
+      "measuredBounds": {
+        "width": 1.4529493067756707,
+        "height": 0.7620000839233398,
+        "depth": 1.2689384947543996
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-end-white-marble",
+      "source": "Table_End_White_Marble_20InchesTall_0222191848_texture.glb",
+      "output": "end table white marble model.webp",
+      "view": "furniture",
+      "sourceSha256": "f32dd8fc814b15aeb1be44000223270707971ab4ddc2e140b6d4498baaa24d3d",
+      "outputSha256": "fc01189aa1074a441cc9ce85ac314c31e9bf1024ae22b557865786d4b649f03a",
+      "bytes": 7758,
+      "measuredBounds": {
+        "width": 0.6136369485202797,
+        "height": 0.5080000162124634,
+        "depth": 0.5892600371379328
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-ottoman-leather-white",
+      "source": "Ottoman_Leather_White_20InchesTall_0222192344_texture.glb",
+      "output": "ottoman white leather model.webp",
+      "view": "furniture",
+      "sourceSha256": "276bd33c8589bd82e88d7f233d6d6c69b7e4c7877f23d985413b122b8c7cad2b",
+      "outputSha256": "e11970ecfb465bb598ec0d41ec31d05410bce0fa3f09e4bbdbe90b5b038fbb38",
+      "bytes": 1990,
+      "measuredBounds": {
+        "width": 1.3344692805114695,
+        "height": 0.5080000162124634,
+        "depth": 1.3344693247308492
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-chair-pink-velvet",
+      "source": "Chair_Pink_Velvet_32InchTall_0222185656_texture.glb",
+      "output": "chair pink velvet model.webp",
+      "view": "furniture",
+      "sourceSha256": "e6a8decba0fdfdbe598c01fc139a6d86e09757c837eae07505905bc27bbdae5e",
+      "outputSha256": "d02a2045d5095469ff285fd41da9253684835758cd897caa142de3ad7ebf6ccb",
+      "bytes": 6324,
+      "measuredBounds": {
+        "width": 0.804837101833043,
+        "height": 0.8127999901771545,
+        "depth": 0.7986463002441702
+      },
+      "meshes": 1
+    }
+  ]
+}
