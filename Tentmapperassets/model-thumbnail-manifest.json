@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T20:30:36.712Z",
+  "generatedAt": "2026-09-21T23:27:31.812Z",
   "renderer": "TentMapper exact-GLB studio renderer",
   "size": {
     "width": 512,
@@ -186,6 +186,591 @@
         "width": 0.804837101833043,
         "height": 0.8127999901771545,
         "depth": 0.7986463002441702
+      },
+      "meshes": 1
+    },
+    {
+      "key": "inflatable-fire-red-marble",
+      "source": "Inflatable_Fire_Red_Marble_12FTTall_0222022800_texture.glb",
+      "output": "inflatable fire red marble model.webp",
+      "view": "furniture",
+      "sourceSha256": "29179222682a7ac275861c06895a2016ab3f2b2cc339b29c28f8aec8ce81bebe",
+      "outputSha256": "2cc425c25f3838909a6dac08ad035138dcac15f1a20bdb2fc92406aa4f01c2e1",
+      "bytes": 12350,
+      "measuredBounds": {
+        "width": 5.299361752989489,
+        "height": 3.657599925994873,
+        "depth": 6.604822286245296
+      },
+      "meshes": 1
+    },
+    {
+      "key": "inflatable-rainbow",
+      "source": "Inflatable_Rainbow_12FTTall_0222022909_texture.glb",
+      "output": "inflatable rainbow model.webp",
+      "view": "furniture",
+      "sourceSha256": "ba6bb62b5a1d08c4e1b63ce3b9207a9a76a796063c97272ed4727b1ddae215bb",
+      "outputSha256": "3cf97138f759247bce965dfa4aef64c4b1d2f7c476d4b4596f8b4057a1330e01",
+      "bytes": 12170,
+      "measuredBounds": {
+        "width": 7.197965324576396,
+        "height": 3.657599925994873,
+        "depth": 8.619317423022478
+      },
+      "meshes": 1
+    },
+    {
+      "key": "foliage-potted-fig-tree",
+      "source": "Potted_Fig_Tree_4FeetTall_0215214533_texture.glb",
+      "output": "potted fig tree model.webp",
+      "view": "furniture",
+      "sourceSha256": "71a021947629bd8c37ec749de09944af45973a4a16196dc0e3d1a09dd7a78935",
+      "outputSha256": "e2c3a510a65efca78a45a076f94414d932783229d0cda2af300682c9c56f9fcf",
+      "bytes": 12542,
+      "measuredBounds": {
+        "width": 0.8450533310399795,
+        "height": 1.2192000150680542,
+        "depth": 0.8051215951047002
+      },
+      "meshes": 1
+    },
+    {
+      "key": "foliage-tree-15ft",
+      "source": "Tree_15ftTall_0222023130_texture.glb",
+      "output": "tree 15ft model.webp",
+      "view": "furniture",
+      "sourceSha256": "7af048e882e7a0ee0f03ede30e3aeebfff88049ead6d51863e59044c7aac33b9",
+      "outputSha256": "9d389fbe79eb7c224ff6c9d51de8dc0f2a05fec4b16a921206deae37ed4eaca4",
+      "bytes": 15034,
+      "measuredBounds": {
+        "width": 3.080587909408767,
+        "height": 3.657599925994873,
+        "depth": 3.1613798555937036
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-coffee-led",
+      "source": "led_table_0120202031_texture.glb",
+      "output": "led coffee table model.webp",
+      "view": "furniture",
+      "sourceSha256": "4fc2ea9dd17f9960474c9ee9b14e36483bfa30963c5d90354dc4fa35566f4085",
+      "outputSha256": "74465d18a7389dfa8fb2cc80d53b7622a008167d476ed8474aab7c557bc957f9",
+      "bytes": 6644,
+      "measuredBounds": {
+        "width": 1.282225090399978,
+        "height": 0.4063999801874161,
+        "depth": 1.0937884048895516
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-coffee-rustic",
+      "source": "Rustic_Coffee_Table_17InchesTall_0208182633_texture.glb",
+      "output": "rustic coffee table model.webp",
+      "view": "furniture",
+      "sourceSha256": "1a76f98964d76f3a5734db2de1f8e2f9f9669c0837e9fad3a25e77e90affadce",
+      "outputSha256": "3f024bd2071119faec3308f40ef4a383ba1d4447e1cc970fbed2373610c9d43f",
+      "bytes": 6986,
+      "measuredBounds": {
+        "width": 1.0435565819811403,
+        "height": 0.4318000078201294,
+        "depth": 1.04355662620052
+      },
+      "meshes": 1
+    },
+    {
+      "key": "picnic-table-classic",
+      "source": "picnic_table_classic_0125185306_texture.glb",
+      "output": "classic picnic table model.webp",
+      "view": "furniture",
+      "sourceSha256": "56e7d34927a7e74e5af8611b6eb042624b1bf1cbbceffbe16aef84529d0aa3a3",
+      "outputSha256": "1c265f88ce7058b03f8aa2d160ea5783901dd096551db796cb4759359f969203",
+      "bytes": 6632,
+      "measuredBounds": {
+        "width": 2.413838838292789,
+        "height": 0.7619999945163727,
+        "depth": 2.286932667827074
+      },
+      "meshes": 1
+    },
+    {
+      "key": "buffet-table-setup",
+      "source": "buffet_table_setup_0125195004_texture.glb",
+      "output": "buffet table setup model.webp",
+      "view": "furniture",
+      "sourceSha256": "8da5695ae65d4a2d5b62f1a02c4c10e87ef6d0e57117d100afbd2fbfee71b587",
+      "outputSha256": "026d83b48499a5ab18d726068bed98176a1b1d8d693c224d123887c72462c455",
+      "bytes": 7186,
+      "measuredBounds": {
+        "width": 2.9686030660636553,
+        "height": 1.0667999386787415,
+        "depth": 2.3354547326396355
+      },
+      "meshes": 1
+    },
+    {
+      "key": "chair-sleek-swivel-stool",
+      "source": "sleek_swivel_stool_0125200858_texture.glb",
+      "output": "sleek swivel stool model.webp",
+      "view": "furniture",
+      "sourceSha256": "781285efaa1329827de6bc06f5a93b16b5b0255dd626045c28c0442699018acd",
+      "outputSha256": "0f686e2832260984a618a1d02c202738b2e93c50e3fdec02f4524b341c77d08a",
+      "bytes": 6306,
+      "measuredBounds": {
+        "width": 0.6640749843694758,
+        "height": 0.8381999731063843,
+        "depth": 0.658328858389722
+      },
+      "meshes": 1
+    },
+    {
+      "key": "picnic-table-kids-green",
+      "source": "kids_green_picnic_tab_0126185336_texture.glb",
+      "output": "kids green picnic table model.webp",
+      "view": "furniture",
+      "sourceSha256": "c641eb6a933f052e9c28dd27e3bb9e815da2b63f29eefc33978216245a6ce410",
+      "outputSha256": "c7397afb8b443f151d000b20b932f207bd5646f6ffe296304581ae8b157f2425",
+      "bytes": 7886,
+      "measuredBounds": {
+        "width": 1.381701910582498,
+        "height": 0.6096000075340271,
+        "depth": 1.4092582119434918
+      },
+      "meshes": 1
+    },
+    {
+      "key": "picnic-table-plastic",
+      "source": "plastic_picnic_table_0126175325_texture.glb",
+      "output": "plastic picnic table model.webp",
+      "view": "furniture",
+      "sourceSha256": "fe71a26a04e04bfed38ad2e620f0684bc6623b4cea80d4888badf98f8229b009",
+      "outputSha256": "69295842ded313f830fb4348c24f0566e8b4239bfef4c5e8084cbbfaaa916403",
+      "bytes": 7396,
+      "measuredBounds": {
+        "width": 2.4872159682623116,
+        "height": 0.7620000243186951,
+        "depth": 2.3436448401902865
+      },
+      "meshes": 1
+    },
+    {
+      "key": "picnic-oasis",
+      "source": "picnic_oasis_0127181832_texture.glb",
+      "output": "picnic oasis model.webp",
+      "view": "furniture",
+      "sourceSha256": "2ddd7c81d8cd53f004839d8090eba9c9a72fafd7cc676b6d8d13818e5abc6f28",
+      "outputSha256": "668300b028f412220df5ebc00aba4386a3b518adf05df04d59101dace1b54bf6",
+      "bytes": 7300,
+      "measuredBounds": {
+        "width": 2.719096780482073,
+        "height": 1.8287999629974365,
+        "depth": 2.719096780482073
+      },
+      "meshes": 1
+    },
+    {
+      "key": "white-minimalist-table",
+      "source": "white_minimalist_tabl_0127182025_texture.glb",
+      "output": "white minimalist table model.webp",
+      "view": "furniture",
+      "sourceSha256": "cc3904c65c767a795580260bebc6f1de519b5e9041493b336b0f7f801284ec16",
+      "outputSha256": "621e8d630fe1de26bc85f2f8cdc6a7d09785fce3c0f2080183959b73e8277b87",
+      "bytes": 2580,
+      "measuredBounds": {
+        "width": 0.9061229534162658,
+        "height": 0.5080000162124634,
+        "depth": 0.876564221667488
+      },
+      "meshes": 1
+    },
+    {
+      "key": "station-silver-fountain-5gal",
+      "source": "5_GALLON_SILVER_Fountain_TableTOP_36INCHESTALL_0222023424_texture.glb",
+      "output": "silver beverage fountain model.webp",
+      "view": "furniture",
+      "sourceSha256": "61265bbd5029ba5eddb0f1624afde2ea4e7093f4f1c532c3be30dfaff7fcf740",
+      "outputSha256": "199a65a510eefed1f7fbcc0fab8cd471aa2ef4eca686189371b16ac635a8a65b",
+      "bytes": 9142,
+      "measuredBounds": {
+        "width": 0.8225254505475067,
+        "height": 0.9143999814987183,
+        "depth": 0.8225254726571964
+      },
+      "meshes": 1
+    },
+    {
+      "key": "station-chocolate-fountain",
+      "source": "chocolate_fountain_36InchTall_Tabletop_0222023712_texture.glb",
+      "output": "chocolate fountain model.webp",
+      "view": "furniture",
+      "sourceSha256": "b25771d160bf2386ced6219532b4ae599c389ce390499dc8f0b4df0c4ef18dcf",
+      "outputSha256": "5e60e034a7ee87d6334487b52e146091b52dbf11a6b929584b5f27bfb9d5ef71",
+      "bytes": 8630,
+      "measuredBounds": {
+        "width": 0.679031934501003,
+        "height": 0.9143999814987183,
+        "depth": 0.6790319566106927
+      },
+      "meshes": 1
+    },
+    {
+      "key": "station-roulette-wheel",
+      "source": "Roulette_Wheel_4InchesTall_0215214811_texture.glb",
+      "output": "roulette wheel model.webp",
+      "view": "plate",
+      "sourceSha256": "56c0e0c85bb0da63ee0dfd46be6ddc8dcea2c24192ef9a95f59c55565ebb312e",
+      "outputSha256": "eb86e251e71ecc2a17613ba08d7a092f516198ae05d24d88ad2161a603b5ea5e",
+      "bytes": 13588,
+      "measuredBounds": {
+        "width": 0.617659193162028,
+        "height": 0.10159999877214432,
+        "depth": 0.5807684203171337
+      },
+      "meshes": 1
+    },
+    {
+      "key": "bar-white-back-bar",
+      "source": "white_back_bar_0127182637_texture.glb",
+      "output": "white back bar model.webp",
+      "view": "furniture",
+      "sourceSha256": "da297265d1f7099343579ba165bed8924450cf2703de1f91a99ae0183d454536",
+      "outputSha256": "c3269c2204a3724a94907885ecff97efbcb8807adb7ad07ae8e98d495aca575b",
+      "bytes": 10174,
+      "measuredBounds": {
+        "width": 1.6936823431700603,
+        "height": 1.8287999629974365,
+        "depth": 1.2479338613522717
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-glass-tumbler",
+      "source": "Glass_Tumbler_0215212219_generate.glb",
+      "output": "glass tumbler model.webp",
+      "view": "glass",
+      "sourceSha256": "128a2f59a32786a1a9bb55963f9f70a1c11cf1cad3428c9546864ccfdf608254",
+      "outputSha256": "0c00da9d388f66bbd8788c617711d88f2293b3999159ddd4e267a3cb896cdf67",
+      "bytes": 5106,
+      "measuredBounds": {
+        "width": 0.11737764766913245,
+        "height": 0.10160000622272491,
+        "depth": 0.11722287431295715
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-smoked-wine-glass",
+      "source": "Smoked_Wine_Glass_Ele_0215212117_generate.glb",
+      "output": "smoked wine glass model.webp",
+      "view": "glass",
+      "sourceSha256": "d58be4be8bc8ea5c9a93be26508d2235d6453117521414598b08d4bcec192720",
+      "outputSha256": "10e1e50bc5dd6be33112dbbe4a9cd88adebb6776e38b9cefe9a9a2edaec41782",
+      "bytes": 6112,
+      "measuredBounds": {
+        "width": 6.374213129467935,
+        "height": 10.000000476837158,
+        "depth": 6.374213129467935
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-charger-plate-black-woodgrain",
+      "source": "BLACK_Woodgrain_CHARGERPlate_1InchTall__0222031012_texture.glb",
+      "output": "black woodgrain charger plate model.webp",
+      "view": "plate",
+      "sourceSha256": "ff221096fed61fc7fadfa767ff7c585810dce9b6780a289cafc49782208cf51f",
+      "outputSha256": "353fce8df39ad11b55ac9c3837379fdfa22c070f1fa680ca700d62b1c2db604b",
+      "bytes": 10644,
+      "measuredBounds": {
+        "width": 0.024160702167920857,
+        "height": 0.02539999969303608,
+        "depth": 0.009320851666893145
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-hex-shelf",
+      "source": "hexagonal_shelf_desig_0126175348_texture.glb",
+      "output": "hexagonal shelf model.webp",
+      "view": "furniture",
+      "sourceSha256": "f8ac3b3a29fc7b940377b7109f75e67d7a188ed573420eaed14786189545a20d",
+      "outputSha256": "7332d7e7d2ca055265740c09ef90af0d5578db1b3a5fe17a9bc1139dfa19fa89",
+      "bytes": 12574,
+      "measuredBounds": {
+        "width": 2.9846410489979336,
+        "height": 2.2860002517700195,
+        "depth": 2.4053377697784155
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-metal-bookshelf",
+      "source": "metal_bookshelf_0127182657_texture.glb",
+      "output": "metal bookshelf model.webp",
+      "view": "furniture",
+      "sourceSha256": "74841e558aa94dd4197c1b1bf427454c60f10c119c07eb339bac862abe1f590a",
+      "outputSha256": "9eb95887d68c0eee6fc4fa8223ac63ff0192a9c7064afce548fe73b9f6025cfc",
+      "bytes": 11152,
+      "measuredBounds": {
+        "width": 1.552976100534288,
+        "height": 1.8287999629974365,
+        "depth": 1.101655634181205
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-golden-shelving-unit",
+      "source": "golden_shelving_unit_0127182521_texture.glb",
+      "output": "golden shelving unit model.webp",
+      "view": "furniture",
+      "sourceSha256": "44ea137966a2e63d87b3c4662b85c7bdf3df999eb95e5b40fde6315f52ed1c87",
+      "outputSha256": "1c02eb9f46933483d59dc7df313e2c2f56ba42c3ba02848e87f54eb52b427147",
+      "bytes": 13618,
+      "measuredBounds": {
+        "width": 1.744878418808888,
+        "height": 1.8287999629974365,
+        "depth": 1.2684850114555997
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-stage-steps-aluminum",
+      "source": "stage_aluminum_steps_0127182209_texture.glb",
+      "output": "aluminum stage steps model.webp",
+      "view": "furniture",
+      "sourceSha256": "02fe66849a88f89af0b32a340ceb87e3368e03e22e118a283b186045afb53eb5",
+      "outputSha256": "ba5b57bef199edf654952fee7e401fe8556004a2f7b887680cd753b5068de90c",
+      "bytes": 6758,
+      "measuredBounds": {
+        "width": 1.1078758074031538,
+        "height": 0.6096000075340271,
+        "depth": 1.1466782467114032
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-curvy-green",
+      "source": "green_curvey_sofa_0127183539_texture.glb",
+      "output": "curvy green sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "7ba28fae56d0eafefe5e56fa207679fa566d89177f1ff4581c6d6aa45affc594",
+      "outputSha256": "216149756e9698ef2a0b9e9fc2c45536cb4bcca0332dd25395fe22875e1a335a",
+      "bytes": 6010,
+      "measuredBounds": {
+        "width": 4.750984904491456,
+        "height": 0.8127999901771545,
+        "depth": 4.052776907333365
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-curved-elegance-white-a",
+      "source": "white_curved_elegance_sofa_0127183457_texture.glb",
+      "output": "curved elegance white sofa a model.webp",
+      "view": "furniture",
+      "sourceSha256": "f020307fbd69b109ba3e91770db563b26cff5531403c51602287be39cf5e7a81",
+      "outputSha256": "f6c406e793a3d0642e8c20919705ef33684e3c21afc3662b917199fe85d272a5",
+      "bytes": 3100,
+      "measuredBounds": {
+        "width": 3.767850460364694,
+        "height": 0.8127999901771545,
+        "depth": 3.0431952059967617
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-l-shaped-modern-black",
+      "source": "biack_l_shaped_modern_sofa_0127183429_texture.glb",
+      "output": "l shaped modern black sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "f4a76360b6ff64859fac917276b4584bd4d9f442c502636309860b07c4510225",
+      "outputSha256": "e50178e222e2dcfb84621349784676ac7c8e43f5b02b43a71f33228ad86bb67c",
+      "bytes": 6226,
+      "measuredBounds": {
+        "width": 3.43043104518146,
+        "height": 0.8128000795841217,
+        "depth": 3.422749342988521
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-curved-grey",
+      "source": "grey_curved_sofa_0127183235_texture.glb",
+      "output": "curved grey sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "be22491860bebd0da6fea1fff83aff0c44288263887b828a62db575ae4a46d0e",
+      "outputSha256": "0c531ed0282ecb2646639ce13366327096e6a8c837582aa3ebb9f1c06f0d1977",
+      "bytes": 3952,
+      "measuredBounds": {
+        "width": 4.767990146902811,
+        "height": 0.8127999901771545,
+        "depth": 4.082477179885379
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-crescent-white",
+      "source": "white_crescent_sofa_0127183211_texture.glb",
+      "output": "crescent white sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "5bfb4bca011988a2a9bbd24040124addb39346de0acd6d57a805aa6101963ba7",
+      "outputSha256": "aec4f957ff2ba155dd6e147f70df0045672707f053fff84c55df5273f348b337",
+      "bytes": 3862,
+      "measuredBounds": {
+        "width": 5.847050712614097,
+        "height": 0.8127999901771545,
+        "depth": 5.576740298015132
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-curved-elegance-white-b",
+      "source": "white_curved_elegance_sofa_0127183140_texture.glb",
+      "output": "curved elegance white sofa b model.webp",
+      "view": "furniture",
+      "sourceSha256": "114bfb1ccb72956dc61aee34ead60c055567d4a322f9ab7bdc04aef96e265f1b",
+      "outputSha256": "c53812cc730b2c058da9f06b6841502dbcdcd52c2b6dbaf40ec057d7f197789c",
+      "bytes": 2814,
+      "measuredBounds": {
+        "width": 3.643470623570763,
+        "height": 0.8127999901771545,
+        "depth": 2.9745992663271887
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-curve-green",
+      "source": "green_curve_sofa_0127183109_texture.glb",
+      "output": "curve green sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "b7408907e7d66ce5486886571bc19373a72a197aadc93096b6ab76db25b7f20a",
+      "outputSha256": "15242fdda77758b92202abe21aac0d90809d82d411b1208f423896c943688c65",
+      "bytes": 5276,
+      "measuredBounds": {
+        "width": 3.6736871591213123,
+        "height": 0.8128000497817993,
+        "depth": 3.0556145830185875
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-elegant-black",
+      "source": "elegant_black_sofa_0127183048_texture.glb",
+      "output": "elegant black sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "a48b28e6e7d699c6589737ac5de181d8d341957a687923e01235d87396d10cd5",
+      "outputSha256": "5f9479a20695af797e2201371d1ab7bbf7a453d1fb3f0fd8aeea6526824d5425",
+      "bytes": 5874,
+      "measuredBounds": {
+        "width": 2.912179159010171,
+        "height": 0.8128000795841217,
+        "depth": 2.305021937785278
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-corner-comfort-green",
+      "source": "green_corner_comfort_0127183018_texture.glb",
+      "output": "corner comfort green sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "13fe8f7adad47330a113785056a55dd187cb762e1a02ab7ce697104772cbf8c1",
+      "outputSha256": "2e93dd40800b1b013c33766bd880ecbfac905819616553386e16213586ec5a11",
+      "bytes": 6684,
+      "measuredBounds": {
+        "width": 3.622751874323657,
+        "height": 0.8127999901771545,
+        "depth": 3.6207283070724037
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-comfort-white",
+      "source": "white_comfort_sofa_0127182918_texture.glb",
+      "output": "comfort white sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "82bf3f1bab1c511401534323752247d410ac430fadcb9d8e5e1d71ee5b8f26d2",
+      "outputSha256": "abfcba06906d39ec669e425da48e37b1024135e02a276df2c6229b3921c2141c",
+      "bytes": 4548,
+      "measuredBounds": {
+        "width": 2.6998749513221174,
+        "height": 0.8128000795841217,
+        "depth": 2.146806632070771
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-sofa-harmony-green",
+      "source": "green_harmony_sofa_0127182843_texture.glb",
+      "output": "harmony green sofa model.webp",
+      "view": "furniture",
+      "sourceSha256": "82fc934e567115a56433910bc06886efd3dc42e5fa830c55ed1842d11f44446b",
+      "outputSha256": "61ce58e162bb3544e3602824cd42b9852c4676751d1aea5f584cc10f83d8d458",
+      "bytes": 6924,
+      "measuredBounds": {
+        "width": 2.887111009551111,
+        "height": 0.8128000795841217,
+        "depth": 2.2612395056800123
+      },
+      "meshes": 1
+    },
+    {
+      "key": "modern-lounge-ottoman-cube-white",
+      "source": "white_cube_ottoman_0127181752_texture.glb",
+      "output": "white cube ottoman model.webp",
+      "view": "furniture",
+      "sourceSha256": "9bf74dc0ffb8ddd6fbb895ca67d8bdaf79b8d5be85e307f66b5ae9b5d83bfffe",
+      "outputSha256": "3261b32b6048deb3222348baae07fa4cf313ac6b400f28d1bcb0b4861f122f33",
+      "bytes": 3998,
+      "measuredBounds": {
+        "width": 0.6642911257569596,
+        "height": 0.4317999929189682,
+        "depth": 0.6259458374503113
+      },
+      "meshes": 1
+    },
+    {
+      "key": "chair-adirondack",
+      "source": "adirondack_chair_0127182456_texture.glb",
+      "output": "adirondack chair model.webp",
+      "view": "furniture",
+      "sourceSha256": "7f5d46369b0b37c612562b12b438dfdf120db13bc3a85ab4851b4c463f6b6eb7",
+      "outputSha256": "6907cf230f815433bd23fe37b72d3cfa378f2cf307990f50dddcd9272806f25f",
+      "bytes": 7728,
+      "measuredBounds": {
+        "width": 1.064280963017223,
+        "height": 0.8889999985694885,
+        "depth": 1.1130346420689325
+      },
+      "meshes": 1
+    },
+    {
+      "key": "station-basic-mini-golf-hole",
+      "source": "Basic_Mini_Golf_Hole_0406020000_texture.glb",
+      "output": "basic mini golf hole model.webp",
+      "view": "furniture",
+      "sourceSha256": "08a346abd5c86a94720171775d3dbbc648bd73108214fe5051bff5aec9d517a3",
+      "outputSha256": "409a9b33e3ff60cea077445a1e335ab98d18f82a2d42d747bb486bce2887b886",
+      "bytes": 6328,
+      "measuredBounds": {
+        "width": 2.0141948164946735,
+        "height": 0.10160000249743462,
+        "depth": 1.417477326500164
+      },
+      "meshes": 1
+    },
+    {
+      "key": "dj-light-bar",
+      "source": "Dj_Light_Bar_7FtTall_0218205619_texture.glb",
+      "output": "dj light bar model.webp",
+      "view": "furniture",
+      "sourceSha256": "ac28167214e049a2afe5be4655c797861afc761dc57172e723499448d43afa4f",
+      "outputSha256": "bf687e929c456dee8a9e78fb565cde6505eb94768a7e14ba5e525068786d1d92",
+      "bytes": 6272,
+      "measuredBounds": {
+        "width": 1.3764709555070176,
+        "height": 2.1335999965667725,
+        "depth": 1.1944571127801444
       },
       "meshes": 1
     }
