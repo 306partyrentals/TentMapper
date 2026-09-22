@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-22T22:46:34.872Z",
+  "renderer": "TentMapper exact-GLB studio renderer",
+  "size": {
+    "width": 512,
+    "height": 512,
+    "format": "webp"
+  },
+  "policy": "Each thumbnail is rendered only from the exact GLB named in its row; no stock, generated, or similar-item substitute.",
+  "items": [
+    {
+      "key": "gift-table",
+      "source": "wood_rec_table_No Linen_30InchesTall0310231633_texture.glb",
+      "output": "gift table model.webp",
+      "view": "furniture",
+      "sourceSha256": "6ae23e0daef5a291545975e13950648bfe2c57b00bcdd9ee01c9d0e139a76f61",
+      "outputSha256": "23f738dd0782db8965c0901055bfb9c141e0358a7899f9c8bed16b5774278f60",
+      "bytes": 5636,
+      "measuredBounds": {
+        "width": 105.32125157853466,
+        "height": 30.000000953674316,
+        "depth": 81.99780133885828
+      },
+      "meshes": 1
+    },
+    {
+      "key": "decor-barrel-light-post",
+      "source": "barrel_light_post_0125194807_texture.glb",
+      "output": "barrel light post model.webp",
+      "view": "furniture",
+      "sourceSha256": "de9b59c79cce062dcf05df1144f5edd8bf18b2b080d0921993fdef7d3a98c1ab",
+      "outputSha256": "de8cc468b40a0105f3f4fc29d931b858532f0ed7a01b8bcd5816600ecedb32a3",
+      "bytes": 6288,
+      "measuredBounds": {
+        "width": 1.8552801972323418,
+        "height": 2.4993600845336914,
+        "depth": 1.4155212082775985
+      },
+      "meshes": 1
+    },
+    {
+      "key": "truss-tv-stand",
+      "source": "tv_on_truss_stand_0126175838_texture.glb",
+      "output": "tv on truss stand model.webp",
+      "view": "furniture",
+      "sourceSha256": "a6a105a00c8b52e5acdf6c382cbca9422f045fd84a53d2f982c6753196ef47d1",
+      "outputSha256": "0dc572a561afe346f311fdb3fd6fe5c8c2ba507fad7f5424a259ec5f851bdbd4",
+      "bytes": 5948,
+      "measuredBounds": {
+        "width": 1.7235047762163065,
+        "height": 2.4384000301361084,
+        "depth": 1.5563493083404003
+      },
+      "meshes": 1
+    }
+  ]
+}
