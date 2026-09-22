@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-22T01:47:28.684Z",
+  "renderer": "TentMapper exact procedural-3D catalogue renderer",
+  "size": {
+    "width": 512,
+    "height": 512,
+    "format": "webp"
+  },
+  "policy": "Only render items whose catalogue identity is defined by the verified TentMapper procedural geometry and material contract; never substitute a similar product or invented photo.",
+  "items": [
+    {
+      "key": "modern-lounge-cube-led",
+      "output": "led glow cube procedural.webp",
+      "widthFeet": 1.33,
+      "depthFeet": 1.33,
+      "heightFeet": 1.33,
+      "color": "#00f2ff",
+      "material": {
+        "emissive": "#00f2ff",
+        "emissiveIntensity": 0.5,
+        "roughness": 0.1,
+        "metalness": 0.1,
+        "transparent": true,
+        "opacity": 0.9
+      },
+      "contractSha256": "43f49b364feeeb06e7f0c01dcca06abb7eae1e7f3cd164ceff8d36f3f086039c",
+      "outputSha256": "12e34e7adc0240af4ecf3e721adca25614648ce19d6d3bae3442d3f2fb726ee8",
+      "bytes": 2930,
+      "sourceContracts": [
+        {
+          "file": "constants.tsx",
+          "sha256": "521c56c31b40ed896ab88676e40f337be2288e0b9187d982e2a49c9746f3d4c2"
+        },
+        {
+          "file": "components/ThreeDEditView.tsx",
+          "sha256": "771aa0aa8aaf3e952359dcca7e09b5175c4ea8d3a11da8b1240d5255ab9cb54b"
+        },
+        {
+          "file": "components/ThreeDWalkthrough.tsx",
+          "sha256": "821cb510f3c911798afcd59e704b3279567b2a82f57fd5e75223a7be5979e8a9"
+        },
+        {
+          "file": "components/EmbedModal.tsx",
+          "sha256": "bbf9e16c1a620c7a7e01755b10602f3cfc82abd21b7a95dae72a73347045f78f"
+        }
+      ]
+    }
+  ]
+}
